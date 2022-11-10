@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "//3dot14shreyansh.github.io/static/css/main.c1619d1e.css",
-    "main.js": "//3dot14shreyansh.github.io/static/js/main.461be234.js",
+    "main.js": "//3dot14shreyansh.github.io/static/js/main.a4a54950.js",
     "static/media/protege.jpg": "//3dot14shreyansh.github.io/static/media/protege.19177b20e1a41557a401.jpg",
-    "static/media/me.jpg": "//3dot14shreyansh.github.io/static/media/me.db7544460bf7403b5268.jpg",
     "static/media/mov.png": "//3dot14shreyansh.github.io/static/media/mov.00b6e63e9793c98a8bde.png",
+    "static/media/me.jpg": "//3dot14shreyansh.github.io/static/media/me.980ca8faa63db1ecc02e.jpg",
     "static/media/gcp.png": "//3dot14shreyansh.github.io/static/media/gcp.0275d8579c47fc0d79e8.png",
     "static/media/gtc2.jpeg": "//3dot14shreyansh.github.io/static/media/gtc2.bb2129c778db7285b005.jpeg",
     "static/media/reactjs.png": "//3dot14shreyansh.github.io/static/media/reactjs.a3a163e377c97c110064.png",
@@ -27,10 +27,10 @@
     "static/media/jsonserver.jpg": "//3dot14shreyansh.github.io/static/media/jsonserver.fd60c24120bd7b8ca3c2.jpg",
     "index.html": "//3dot14shreyansh.github.io/index.html",
     "main.c1619d1e.css.map": "//3dot14shreyansh.github.io/static/css/main.c1619d1e.css.map",
-    "main.461be234.js.map": "//3dot14shreyansh.github.io/static/js/main.461be234.js.map"
+    "main.a4a54950.js.map": "//3dot14shreyansh.github.io/static/js/main.a4a54950.js.map"
   },
   "entrypoints": [
     "static/css/main.c1619d1e.css",
-    "static/js/main.461be234.js"
+    "static/js/main.a4a54950.js"
   ]
 }
