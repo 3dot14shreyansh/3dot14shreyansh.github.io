@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "//3dot14shreyansh.github.io/static/css/main.c8ec9481.css",
-    "main.js": "//3dot14shreyansh.github.io/static/js/main.a4fc4b26.js",
+    "main.js": "//3dot14shreyansh.github.io/static/js/main.16c6f66d.js",
     "static/media/1_protege.jpg": "//3dot14shreyansh.github.io/static/media/1_protege.19177b20e1a41557a401.jpg",
     "static/media/protege.jpg": "//3dot14shreyansh.github.io/static/media/protege.c712540f61dfd8457ca7.jpg",
     "static/media/me.jpg": "//3dot14shreyansh.github.io/static/media/me.c6ab41f8f6f90c51bed1.jpg",
@@ -29,10 +29,10 @@
     "static/media/jsonserver.jpg": "//3dot14shreyansh.github.io/static/media/jsonserver.fd60c24120bd7b8ca3c2.jpg",
     "index.html": "//3dot14shreyansh.github.io/index.html",
     "main.c8ec9481.css.map": "//3dot14shreyansh.github.io/static/css/main.c8ec9481.css.map",
-    "main.a4fc4b26.js.map": "//3dot14shreyansh.github.io/static/js/main.a4fc4b26.js.map"
+    "main.16c6f66d.js.map": "//3dot14shreyansh.github.io/static/js/main.16c6f66d.js.map"
   },
   "entrypoints": [
     "static/css/main.c8ec9481.css",
-    "static/js/main.a4fc4b26.js"
+    "static/js/main.16c6f66d.js"
   ]
 }
