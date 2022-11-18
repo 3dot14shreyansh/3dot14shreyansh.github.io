@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "//3dot14shreyansh.github.io/static/css/main.c8ec9481.css",
-    "main.js": "//3dot14shreyansh.github.io/static/js/main.c663c5ad.js",
+    "main.css": "//3dot14shreyansh.github.io/static/css/main.3c102b25.css",
+    "main.js": "//3dot14shreyansh.github.io/static/js/main.cce3908f.js",
     "static/media/1_protege.jpg": "//3dot14shreyansh.github.io/static/media/1_protege.19177b20e1a41557a401.jpg",
     "static/media/protege.jpg": "//3dot14shreyansh.github.io/static/media/protege.c712540f61dfd8457ca7.jpg",
     "static/media/me.jpg": "//3dot14shreyansh.github.io/static/media/me.c6ab41f8f6f90c51bed1.jpg",
     "static/media/climate.jpg": "//3dot14shreyansh.github.io/static/media/climate.a0238aef145b1d7c4fc9.jpg",
     "static/media/mov.png": "//3dot14shreyansh.github.io/static/media/mov.00b6e63e9793c98a8bde.png",
     "static/media/gcp.png": "//3dot14shreyansh.github.io/static/media/gcp.0275d8579c47fc0d79e8.png",
+    "static/media/medistat.jpg": "//3dot14shreyansh.github.io/static/media/medistat.fa1f20be51eb506145d9.jpg",
     "static/media/gtc2.jpeg": "//3dot14shreyansh.github.io/static/media/gtc2.bb2129c778db7285b005.jpeg",
     "static/media/reactjs.png": "//3dot14shreyansh.github.io/static/media/reactjs.a3a163e377c97c110064.png",
     "static/media/seaborn.png": "//3dot14shreyansh.github.io/static/media/seaborn.f464f98d0f14f77c23e5.png",
     "static/media/waste.jpg": "//3dot14shreyansh.github.io/static/media/waste.c97409d9888a477991da.jpg",
-    "static/media/medistat.jpg": "//3dot14shreyansh.github.io/static/media/medistat.ed685ad82a7673f4a873.jpg",
+    "static/media/1_medistat.jpg": "//3dot14shreyansh.github.io/static/media/1_medistat.ed685ad82a7673f4a873.jpg",
     "static/media/scikit.png": "//3dot14shreyansh.github.io/static/media/scikit.8dcd0f3319080663e876.png",
     "static/media/js.jpeg": "//3dot14shreyansh.github.io/static/media/js.342e0144a8b2dfbb186b.jpeg",
     "static/media/todo.jpeg": "//3dot14shreyansh.github.io/static/media/todo.6737ce588cf86b5c340a.jpeg",
@@ -28,11 +29,11 @@
     "static/media/gplaystore.png": "//3dot14shreyansh.github.io/static/media/gplaystore.f902960a94878ee0da67.png",
     "static/media/jsonserver.jpg": "//3dot14shreyansh.github.io/static/media/jsonserver.fd60c24120bd7b8ca3c2.jpg",
     "index.html": "//3dot14shreyansh.github.io/index.html",
-    "main.c8ec9481.css.map": "//3dot14shreyansh.github.io/static/css/main.c8ec9481.css.map",
-    "main.c663c5ad.js.map": "//3dot14shreyansh.github.io/static/js/main.c663c5ad.js.map"
+    "main.3c102b25.css.map": "//3dot14shreyansh.github.io/static/css/main.3c102b25.css.map",
+    "main.cce3908f.js.map": "//3dot14shreyansh.github.io/static/js/main.cce3908f.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8ec9481.css",
-    "static/js/main.c663c5ad.js"
+    "static/css/main.3c102b25.css",
+    "static/js/main.cce3908f.js"
   ]
 }
