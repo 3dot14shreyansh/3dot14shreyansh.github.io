@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "//3dot14shreyansh.github.io/static/css/main.92eb59c8.css",
-    "main.js": "//3dot14shreyansh.github.io/static/js/main.b9a7fa50.js",
+    "main.js": "//3dot14shreyansh.github.io/static/js/main.d06a19d7.js",
     "static/media/1_protege.jpg": "//3dot14shreyansh.github.io/static/media/1_protege.19177b20e1a41557a401.jpg",
     "static/media/protege.jpg": "//3dot14shreyansh.github.io/static/media/protege.c712540f61dfd8457ca7.jpg",
     "static/media/gtc2.jpeg": "//3dot14shreyansh.github.io/static/media/gtc2.a9dba841a4b9e3ca950e.jpeg",
@@ -34,10 +34,10 @@
     "static/media/jsonserver.jpg": "//3dot14shreyansh.github.io/static/media/jsonserver.fd60c24120bd7b8ca3c2.jpg",
     "index.html": "//3dot14shreyansh.github.io/index.html",
     "main.92eb59c8.css.map": "//3dot14shreyansh.github.io/static/css/main.92eb59c8.css.map",
-    "main.b9a7fa50.js.map": "//3dot14shreyansh.github.io/static/js/main.b9a7fa50.js.map"
+    "main.d06a19d7.js.map": "//3dot14shreyansh.github.io/static/js/main.d06a19d7.js.map"
   },
   "entrypoints": [
     "static/css/main.92eb59c8.css",
-    "static/js/main.b9a7fa50.js"
+    "static/js/main.d06a19d7.js"
   ]
 }
